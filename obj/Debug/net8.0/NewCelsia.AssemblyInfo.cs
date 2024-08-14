@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NewCelsia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b762a3a81f29dfbf3f91f08290c63ac69b8bd0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6df41bd22eeefd8b5f0893ef2867398e95b98962")]
 [assembly: System.Reflection.AssemblyProductAttribute("NewCelsia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NewCelsia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
